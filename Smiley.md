@@ -1,1 +1,4 @@
+Smiley is a groundbreaking project dedicated to helping individuals of all backgrounds and camera-conscious inclinations capture radiant and authentic smiling photographs. Using cutting-edge technology, Smiley creates a relaxed and inviting atmosphere, ensuring that even the most camera-shy individuals feel at ease. By enhancing and highlighting natural smiles and expressions, this innovative project guarantees that every photo reflects genuine happiness. Whether it's for personal memories or professional profiles, Smiley empowers everyone to obtain flattering and confidence-boosting photographs effortlessly, transforming the way we view ourselves in images and enhancing our visual storytelling
 
+
+![image](https://github.com/Aashay-chaudhari/resume_projects/assets/93089131/ef896bae-78e5-41ac-8235-eb0b4815480a)
