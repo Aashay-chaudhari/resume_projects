@@ -19,7 +19,5 @@ Initial Image:
 
 Transformed Image: 
 
-![image](https://github.com/Aashay-chaudhari/resume_projects/assets/93089131/fc4abb48-98d5-4a14-b66f-076e5c7e1e8b)
-
-![image](https://github.com/Aashay-chaudhari/resume_projects/assets/93089131/82ba6b42-dc6d-492a-9864-737b0ea0f15a)
+![image](https://github.com/Aashay-chaudhari/resume_projects/assets/93089131/fc4abb48-98d5-4a14-b66f-076e5c7e1e8b)  ![image](https://github.com/Aashay-chaudhari/resume_projects/assets/93089131/82ba6b42-dc6d-492a-9864-737b0ea0f15a)
 
