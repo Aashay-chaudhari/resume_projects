@@ -15,6 +15,7 @@ Repetition: The process is repeated multiple times, each time selecting a differ
 Outputs: 
 
 Initial Image:
+
 ![dd2](https://github.com/Aashay-chaudhari/resume_projects/assets/93089131/6cc99552-70af-4c60-872b-fd9d9a335452)
 
 Transformed Image: 
