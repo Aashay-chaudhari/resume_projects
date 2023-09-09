@@ -1,3 +1,5 @@
+Link to colab implementation: https://github.com/Aashay-chaudhari/DL-Projects/blob/master/DL%20Image%20Projects/Object%20Detection%20Using%20Pretrained%20Model%20(yolo).ipynb
+
 DeepDream is a computer vision algorithm developed by Google that utilizes artificial neural networks, particularly Convolutional Neural Networks (CNNs), to generate and enhance images. It was initially designed to explore the inner workings of neural networks and understand what features they learn from training data. However, it has also gained popularity as a creative tool for generating psychedelic and surreal images.
 
 Here's how DeepDream works:
@@ -13,11 +15,8 @@ Repetition: The process is repeated multiple times, each time selecting a differ
 Outputs: 
 
 Initial Image:
-
-![image](https://github.com/Aashay-chaudhari/resume_projects/assets/93089131/9e184dbc-56d4-4942-b8c1-ab95ac950d2b)
-
+![dd2](https://github.com/Aashay-chaudhari/resume_projects/assets/93089131/6cc99552-70af-4c60-872b-fd9d9a335452)
 
 Transformed Image: 
 
-![image](https://github.com/Aashay-chaudhari/resume_projects/assets/93089131/fc4abb48-98d5-4a14-b66f-076e5c7e1e8b)  ![image](https://github.com/Aashay-chaudhari/resume_projects/assets/93089131/82ba6b42-dc6d-492a-9864-737b0ea0f15a)
-
+![dd1](https://github.com/Aashay-chaudhari/resume_projects/assets/93089131/fbe23289-61a2-4be6-b4b6-9d2341968178)
