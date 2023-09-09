@@ -14,6 +14,7 @@ Tonight, as I snuggle under my cozy blanket, I can't help but feel so grateful f
 Until tomorrow, Emily
 
 Output:
+
 (Verse) Today's my birthday, feeling so alive, Double digits, yo, I'm ready to strive.
 
 Got a brand-new bike, flying through the air, Riding in the park, without a single care.
