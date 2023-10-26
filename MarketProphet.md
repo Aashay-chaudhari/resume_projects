@@ -1,4 +1,0 @@
-# resume_projects
-
-MarketProphet
-
